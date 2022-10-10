@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "350533153599",
+    "project_id": "project-e83ee",
+    "storage_bucket": "project-e83ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350533153599:android:53c742eee6c0b56b5e998a",
+        "android_client_info": {
+          "package_name": "com.mycompany.yuvanproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350533153599-esu8akrplfdukh40bafq9odg2ie26pt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.yuvanproject",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "350533153599-15iklm1ar5mmkot1lag46c7olsr813mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOXgJNNWug7dztDXj575Qts3qsHDq4Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350533153599-15iklm1ar5mmkot1lag46c7olsr813mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350533153599-o3h0o4mporrscpgpr78f5m9qr8smihj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yuvanproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
